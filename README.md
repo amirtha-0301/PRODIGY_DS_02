@@ -1,35 +1,29 @@
-# Task 02 – Exploratory Data Analysis (EDA)
+# Task 03 – Bank Marketing Data Analysis
 
 ## Objective
-To perform exploratory data analysis on the Google Play Store dataset using Python.
+To analyze the Bank Marketing dataset and build a predictive model to understand customer subscription behavior.
 
 ## Dataset
-Google Play Store dataset (`google_play_store.csv`)
+Bank Marketing Dataset (`bank.csv`)
 
 ## Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
+- Scikit-learn
 - Jupyter Notebook
 
-## Steps Performed
-- Loaded and explored the dataset
-- Cleaned missing and inconsistent values
-- Analyzed app categories, ratings, reviews, and installs
-- Visualized insights using plots
+## Work Performed
+- Data loading and exploration
+- Data preprocessing and encoding
+- Exploratory data analysis
+- Model building and evaluation
 
-## Visualizations
+## Output Demonstration
+A screen recording demonstrating the analysis, visualizations, and results is included in this repository.
 
-### App Category Distribution
-![Plot 1](plot1.png)
-
-### Ratings Distribution
-![Plot 2](plot2.png)
-
-### Installs vs Categories
-![Plot 3](plot3.png)
+📹 File: `Task03_Bank_Marketing_Output.mp4`
 
 ## Conclusion
-This analysis helped in understanding trends and patterns in Google Play Store apps and highlighted the importance of data cleaning and visualization.
-
+This task helped me understand how data analysis and machine learning models can be applied to real-world banking datasets to predict customer behavior.
